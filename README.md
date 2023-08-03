@@ -1,3 +1,3 @@
 # Numpy Matplotlib Examples
-**Numpy Examples**
+**Numpy Examples**  
 **Matplotlib Examples**
